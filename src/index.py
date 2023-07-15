@@ -2,7 +2,7 @@ import cv2
 import pytesseract
 
 # 画像の読み込み
-image = cv2.imread('result_screen.png')
+image = cv2.imread('result_screen.jpg')
 
 # 画像の前処理（必要に応じて）
 # ...
